@@ -10,7 +10,6 @@ The goal of this project was to understand how SEO-friendly websites are structu
 
 - Node.js
 - Express.js
-- MongoDB
 - HTML
 - CSS
 - JavaScript

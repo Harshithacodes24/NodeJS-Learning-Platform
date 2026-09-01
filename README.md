@@ -1,28 +1,71 @@
 # NodeJS SEO Website
 
-This project was created to explore SEO techniques in a Node.js-based website. It includes course pages, blog pages, search functionality, and an SEO-friendly website structure.
+A Node.js-based website created to explore **Search Engine Optimization (SEO)** techniques and understand how SEO-friendly web applications are structured.
 
-## Purpose
+The project includes course pages, blog pages, search functionality, responsive UI, and SEO-related features such as metadata, sitemap, and `robots.txt`.
 
-The goal of this project was to understand how SEO-friendly websites are structured and how content organization, routing, and metadata contribute to search engine optimization.
+## 📸 Screenshots
 
-## Technologies Used
+### 🏠 Home Page
 
-- Node.js
-- Express.js
-- HTML
-- CSS
-- JavaScript
+![Home Page](screenshots/home.png)
 
-## Features
+### 📚 Courses Page
 
-- SEO-friendly pages
-- Blog section
+![Courses Page](screenshots/courses.png)
+
+### 📝 Blog Page
+
+![Blog Page](screenshots/blog.png)
+
+![Blog Page](screenshots/blog1.png)
+
+### 🔍 Search Functionality
+
+![Search Page](screenshots/search.png)
+
+### 📩 Contact Page
+
+![Contact Page](screenshots/contact.png)
+
+## ✨ Features
+
+- SEO-friendly website structure
 - Course pages
+- Blog section
 - Search functionality
-- Responsive UI
-- Sitemap and robots.txt
+- Responsive user interface
+- SEO metadata
+- Sitemap
+- `robots.txt`
+- Organized page routing
+- Structured content organization
 
-## Note
+## 🛠️ Technologies Used
 
-This project was developed as an exploratory learning project using AI-assisted development tools. I used it to understand project structure and SEO concepts while learning Node.js web application development.
+- **Node.js**
+- **Express.js**
+- **HTML**
+- **JavaScript**
+- **CSS**
+
+## 🎯 Project Purpose
+
+The main goal of this project was to understand how SEO-friendly websites are designed and structured using Node.js.
+
+The project helped me explore how **content organization, routing, page metadata, sitemap configuration, and website structure** can contribute to better search engine optimization.
+
+## 📚 Key Concepts Explored
+
+- Search Engine Optimization (SEO)
+- SEO-friendly URLs and routing
+- HTML metadata
+- Page titles and descriptions
+- Sitemap
+- `robots.txt`
+- Content organization
+- Internal navigation
+- Search functionality
+- Responsive web design
+- Node.js web application structure
+

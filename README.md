@@ -20,13 +20,14 @@ The project includes course pages, blog pages, search functionality, responsive 
 
 ![Blog Page](screenshots/blog1.png)
 
+### 📩 Contact Page
+
+![Contact Page](screenshots/contact.png)
+
 ### 🔍 Search Functionality
 
 ![Search Page](screenshots/search.png)
 
-### 📩 Contact Page
-
-![Contact Page](screenshots/contact.png)
 
 ## ✨ Features
 
